@@ -5,25 +5,25 @@ O aplicativo permite que pacientes enviem fotos sorrindo diariamente, como uma r
 
 ## Tecnologias Utilizadas
 
-###React Native
+### React Native
 Framework usado para criar o aplicativo móvel. Ele permite o desenvolvimento de aplicativos nativos para Android e iOS utilizando JavaScript e React.
 
-###React Navigation
+### React Navigation
 Biblioteca de navegação utilizada para gerenciar as telas do aplicativo, permitindo transições entre elas.
 
-###Axios
+### Axios
 Biblioteca para realizar chamadas HTTP para a API e obter dados de análise do sorriso.
 
-###react-native-camera
+### react-native-camera
 Biblioteca utilizada para acessar a câmera do dispositivo e capturar imagens diretamente no aplicativo.
 
-###Noje.js
+### Noje.js
 Servidor simples em Node.js para simular a análise da foto do sorriso. Este servidor oferece uma API que retorna dados de análise como a pontuação do sorriso e recomendações.
 
-##Express
+## Express
 Framework para criar um servidor HTTP em Node.js, utilizado para implementar a API que processa a análise do sorriso.
 
-##Funcionalidades
+## Funcionalidades
 1. **Captura de Foto**: O usuário pode capturar uma foto do seu sorriso usando a câmera frontal do dispositivo.
 2. **Análise do Sorriso**: A imagem capturada é enviada para uma API (simulada localmente) que analisa a qualidade do sorriso e gera uma pontuação e recomendações.
 3. **Exibição dos Resultados**: Após a captura da foto, o usuário visualiza a pontuação do sorriso e as recomendações para cuidados dentários.
