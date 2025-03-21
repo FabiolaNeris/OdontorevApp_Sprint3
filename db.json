@@ -1,0 +1,23 @@
+{
+    "sorrisos": [
+      {
+        "id": 1,
+        "data": "2025-03-20",
+        "pontuacao": 75,
+        "recomendacao": "Mantenha a escovação regular, mas procure um dentista se notar manchas persistentes."
+      },
+      {
+        "id": 2,
+        "data": "2025-03-19",
+        "pontuacao": 90,
+        "recomendacao": "Seu sorriso está ótimo! Continue com os cuidados diários."
+      },
+      {
+        "id": 3,
+        "data": "2025-03-18",
+        "pontuacao": 50,
+        "recomendacao": "A gengiva está um pouco irritada. Verifique se está escovando corretamente e consulte seu dentista."
+      }
+    ]
+  }
+  
