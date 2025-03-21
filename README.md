@@ -20,7 +20,7 @@ Biblioteca utilizada para acessar a câmera do dispositivo e capturar imagens di
 ### Noje.js
 Servidor simples em Node.js para simular a análise da foto do sorriso. Este servidor oferece uma API que retorna dados de análise como a pontuação do sorriso e recomendações.
 
-## Express
+### Express
 Framework para criar um servidor HTTP em Node.js, utilizado para implementar a API que processa a análise do sorriso.
 
 ## Funcionalidades
